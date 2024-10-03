@@ -1,4 +1,4 @@
-echo "welcome to the adventure Game!"
+echo "welcome to the ultimate adventure Game!"
 echo "choose a location to explore: forest, castle, or cave
 read location
 if ["$location" == "forest"]; then
